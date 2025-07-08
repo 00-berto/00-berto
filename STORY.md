@@ -15,3 +15,6 @@ luverz. this was supposed to be a dating app for my school's students only, but 
 
 ### java era #2
 on about september 2024, a new two-week minecraft phase started, and at the time i was intrigued by servers like starnet and hideaway, so i wanted to do similar custom stuff like them, so i started working on moonstar, which added stuff like custom furniture, custom wearables, and custom enchants. i was working on custom dialogue, but while i was working on it the server died so i never got to finish it. while i made the plugin for the server, its real purpose was for me to learn more about minecraft, spigot and java.
+
+### fantasummer (fantaszn v2) and more
+march 2025. "what if fantaszn was good", i said. so i reworked it from scratch, except now anyone can create a "group" and make their own challenges! same concept as before, just more customizable and with a much better ui. i also started working on "sticky", a simple app similar to figjam but it only had sticky notes and it was really bad. recently (08-07-25) i started working on sticky v2 and its even worse i mean the ui is better but it does absolutely nothing. i might work on it more idk
